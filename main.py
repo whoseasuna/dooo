@@ -66,7 +66,7 @@ from aiohttp import web
 load_dotenv()
 
 ADMIN_ID = 8390398005                  # Admin's Telegram user id
-ADMIN_USERNAME = "@JayHCode"           # Used in some prompts only
+ADMIN_USERNAME = "@ItsJayHong"           # Used in some prompts only
 REQUIRED_CHANNEL = "@JayHCode"         # Channel users must join
 REQUIRED_CHANNEL_URL = "https://t.me/JayHCode"
 START_IMAGE_URL = (
